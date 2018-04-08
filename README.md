@@ -1,0 +1,2 @@
+# Implementation-of-Lazy-Greedy-Submodular-Maximization-Algorithm-to-Recommend-Movies
+A recommender system was developed using the MovieLens dataset. For a monotonic submodular objective function, the greedy submodular maximization algorithm was used to build a framework to recommend movies. Subsequently, a "lazy" version of the algorithm was implemented to drastically decrease the time taken to run the framework.
